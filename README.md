@@ -120,12 +120,7 @@ pip install requests beautifulsoup4 python-dotenv tenacity
 
 ## Autoría y Licencia
 
-Desarrollado por [Tu Nombre o Equipo].
+Desarrollado por Gilberto Nava Marcos.
 
 Este script es de uso libre para fines educativos y de investigación. Se recomienda respetar los términos de uso de las páginas web consultadas y no realizar scraping masivo.
 
----
-
-## Contacto
-
-Para sugerencias, mejoras o reportes de bugs, por favor contacta a: [tu.email@dominio.com]
